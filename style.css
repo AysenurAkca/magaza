@@ -1,0 +1,11 @@
+ul#ana  {
+    list-style-position: inside;
+}
+
+body{
+    background-color: #E9ECEF;
+}
+
+a:hover {
+    color: white;
+  }
